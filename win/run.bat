@@ -1,0 +1,1 @@
+oathtool.exe -b --totp @key.txt | clip
